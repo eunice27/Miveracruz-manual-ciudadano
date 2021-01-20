@@ -1,5 +1,5 @@
 module.exports = {
-    title: '',
+    title: 'Manual ciudadano',
     description: 'Manual ciudadano',
     themeConfig: {
         logo: '/img/logo_color.png',
