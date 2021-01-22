@@ -1,6 +1,9 @@
 module.exports = {
-    title: '',
+    title: 'Mi Veracruz',
     description: 'Manual ciudadano',
+    head: [
+        ['link', { rel: 'icon', href: '/img/veracruz-logo-152.png' }]
+      ],
     themeConfig: {
         logo: '/img/logo_color.png',
         nav: [
